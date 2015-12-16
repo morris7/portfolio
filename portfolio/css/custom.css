@@ -1,3 +1,11 @@
 .circular{
     border-radius: 50%;
 }
+
+img.clients{
+    margin-top: 50px;
+}
+
+section#clients{
+    padding-bottom: 0px;
+}
